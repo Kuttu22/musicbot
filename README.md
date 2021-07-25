@@ -39,7 +39,7 @@ Click the below button to watch the video tutorial on deploying
 
 
 #### Deploy To Heroku 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/MRK-YT/MT-GroupMusic-Bot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="210" height="34.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Kuttu22/musicbot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="210" height="34.45"/></a></p>
 </pre>
 </p>
 </details>
@@ -199,9 +199,9 @@ If you donlt like to play in linked channel:
 <a href="https://Instagram.com/mrk_yt_"><img src="https://badgen.net/badge/Follow%20on%20/Instagram/80FF00?icon=Instagram&labelColor=black"></a>
                                                                                                         
 
-[![Open Source? Yes!](https://badgen.net/badge/Oᴘᴇɴ%20Sᴏᴜʀᴄᴇ%20%3F/Yᴇs/yellow?icon=github)](https://github.com/MRK-YT/Pro-Auto-Filter-Bot-V2)
-[![Ask Me Anything !](https://img.shields.io/badge/🤔%20Ask%20Me-Anything-1abc9c.svg)](https://telegram.dog/Mrk_Yt)
-[![Report Bugs!](https://badgen.net/badge/🐞%20Report%20/Bugs/red)](https://telegram.dog/mrk_yt)
+[![Open Source? Yes!](https://badgen.net/badge/Oᴘᴇɴ%20Sᴏᴜʀᴄᴇ%20%3F/Yᴇs/yellow?icon=github)](https://github.com/Kuttu22/musicbot)
+[![Ask Me Anything !](https://img.shields.io/badge/🤔%20Ask%20Me-Anything-1abc9c.svg)](https://t.me/Kuttu_thomas)
+[![Report Bugs!](https://badgen.net/badge/🐞%20Report%20/Bugs/red)](https://t.me/Kuttu_thomas)
 [![Join Channel !](https://badgen.net/badge/🔊%20Join%20/Channel/Black)](https://telegram.dog/mo_Tech_yt)
 
 Join Our [Telegram Group](https://www.telegram.dog/Mo_Tech_Group) For Support/Assistance And Our [Channel](https://www.telegram.dog/Mo_Tech_YT) For Updates.   
